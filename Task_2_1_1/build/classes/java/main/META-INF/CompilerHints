@@ -1,0 +1,11 @@
+dontinline,*.*_all_jmhStub
+dontinline,*.*_avgt_jmhStub
+dontinline,*.*_sample_jmhStub
+dontinline,*.*_ss_jmhStub
+dontinline,*.*_thrpt_jmhStub
+inline,r/masud/ParallelStreamBenchmark.containsNonPrime
+inline,r/masud/ParallelStreamBenchmark.setup
+inline,r/masud/SerialBenchmark$BenchmarkState.setUp
+inline,r/masud/SerialBenchmark.testContainsNonPrime
+inline,r/masud/parallelBenchmark.parallelNonPrimeChecker
+inline,r/masud/parallelBenchmark.setup
