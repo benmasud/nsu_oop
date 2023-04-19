@@ -1,12 +1,10 @@
 rootProject.name = 'oop'
-<<<<<<< HEAD
 
 include 'Task_1_1_2'
 include 'Task_2_1_1'
 include 'TasK_2_2_1'
 include 'Task_1_3_1'
-=======
-include 'Task_2_1_1'
-include 'TasK_2_2_1'
-include 'Task_1_3_1'
->>>>>>> ef0b5b1 (settings.gradle)
+include 'Task_2_3_1'
+include 'Task_2_3_2'
+
+

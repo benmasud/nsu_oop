@@ -1,10 +1,67 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="oop.Task_3_1_1.main:jar" />
+    </artifacts-to-build>
+  </component>
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="37aa88ad-a736-4c04-aedc-06f1538ba014" name="Changes" comment="settings.gradle" />
+    <list default="true" id="37aa88ad-a736-4c04-aedc-06f1538ba014" name="Changes" comment="commit">
+      <change afterPath="$PROJECT_DIR$/Task_2_3_2/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task_2_3_2/.gradle/7.6/checksums/checksums.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task_2_3_2/.gradle/7.6/checksums/md5-checksums.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task_2_3_2/.gradle/7.6/checksums/sha1-checksums.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task_2_3_2/.gradle/7.6/dependencies-accessors/dependencies-accessors.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task_2_3_2/.gradle/7.6/dependencies-accessors/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task_2_3_2/.gradle/7.6/executionHistory/executionHistory.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task_2_3_2/.gradle/7.6/executionHistory/executionHistory.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task_2_3_2/.gradle/7.6/fileChanges/last-build.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task_2_3_2/.gradle/7.6/fileHashes/fileHashes.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task_2_3_2/.gradle/7.6/fileHashes/fileHashes.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task_2_3_2/.gradle/7.6/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task_2_3_2/.gradle/7.6/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task_2_3_2/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task_2_3_2/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task_2_3_2/.gradle/file-system.probe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task_2_3_2/.gradle/vcs-1/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task_2_3_2/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task_2_3_2/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task_2_3_2/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task_2_3_2/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task_2_3_2/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task_2_3_2/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task_2_3_2/src/context/carrot.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task_2_3_2/src/context/mushroom.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task_2_3_2/src/context/nut.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task_2_3_2/src/context/serpent.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task_2_3_2/src/context/snake (1).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task_2_3_2/src/context/snake.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task_2_3_2/src/context/sounds/die.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task_2_3_2/src/context/sounds/eat.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task_2_3_2/src/context/sulphite.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task_2_3_2/src/main/java/module-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task_2_3_2/src/main/java/r/masud/ccfit/nsu/ru/task_2_3_2/Controller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task_2_3_2/src/main/java/r/masud/ccfit/nsu/ru/task_2_3_2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task_2_3_2/src/main/resources/r/masud/ccfit/nsu/ru/task_2_3_2/hello-view.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.4/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.4/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/file-system.probe" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/file-system.probe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_14_03_2023_09_43_[Changes]1/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_14_03_2023_09_43__Changes_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/task_1_2_2_/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/task_1_2_2_/src/main/java/ccfit/nsu/r/masud/MyTree.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/task_1_2_2_/src/test/java/MyTreeTest.java" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -12,6 +69,9 @@
   </component>
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/Task_2_3_2">
       <ProjectState />
     </projectState>
   </component>
@@ -32,10 +92,18 @@
       </state>
     </system>
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="Task_2_2_1" />
+        <entry key="$PROJECT_DIR$" value="main" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -45,26 +113,55 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2MzAJEhfQK6OTLp7aOb8CD4lgdH" />
-  <component name="ProjectLevelVcsManager">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/Asus/IdeaProjects/oop"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;Task__2__3__2&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;18 (2)&quot;,
+    &quot;last_opened_file_path&quot;: &quot;H:/Full Stack Development Training/Tools/openjfx-20.0.1_windows-x64_bin-sdk/javafx-sdk-20.0.1/lib/javafx.media.jar&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.105374075&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.11792451&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.completion&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="r.masud.ccfit.nsu.ru" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Asus\IdeaProjects\oop" />
       <recent name="C:\Users\Asus\IdeaProjects\oop\Task_2_1_1" />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="r.masud.ccfit.nsu.ru.task_2_3_2.Main" />
+      <module name="oop.Task_2_3_2.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="r.masud.ccfit.nsu.ru.task_2_3_2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -124,7 +221,21 @@
       <option name="project" value="LOCAL" />
       <updated>1678762684104</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="commit">
+      <created>1682254964141</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1682254964141</updated>
+    </task>
+    <task id="LOCAL-00009" summary="commit">
+      <created>1682255096616</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1682255096616</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -140,8 +251,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="commit" />
     <MESSAGE value="settings.gradle" />
-    <option name="LAST_COMMIT_MESSAGE" value="settings.gradle" />
+    <MESSAGE value="commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit" />
   </component>
 </project>
