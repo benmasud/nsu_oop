@@ -4,14 +4,15 @@
   <component name="GradleSettings">
     <option name="linkedExternalProjectsSettings">
       <GradleProjectSettings>
-        <option name="distributionType" value="DEFAULT_WRAPPED" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
-            <option value="$PROJECT_DIR$/TasK_2_2_1" />
-            <option value="$PROJECT_DIR$/Task_1_3_1" />
+            <option value="$PROJECT_DIR$/Task_1_1_2" />
+            <option value="$PROJECT_DIR$/Task_1_2_2_" />
             <option value="$PROJECT_DIR$/Task_2_1_1" />
+            <option value="$PROJECT_DIR$/Task_2_2_1" />
+            <option value="$PROJECT_DIR$/Task_3_1_1" />
           </set>
         </option>
       </GradleProjectSettings>

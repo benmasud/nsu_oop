@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="CompilerConfiguration">
-    <bytecodeTargetLevel target="1.6" />
+    <bytecodeTargetLevel target="18">
+      <module name="Taks_3_1_1_Console_Snake" target="18" />
+      <module name="Task_3_1_1" target="18" />
+      <module name="Task_3_1_1_Console_Snake" target="18" />
+    </bytecodeTargetLevel>
   </component>
 </project>
