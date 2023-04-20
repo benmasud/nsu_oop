@@ -1,6 +1,9 @@
 rootProject.name = 'oop'
-include 'Task_1_1_2'
+
 include 'Task_2_1_1'
-include 'TasK_2_2_1'
-include 'Task_1_3_1'
+include 'Task_1_1_2'
+include 'Task_1_2_2_'
+include 'Task_2_2_1'
 include 'Task_3_1_1'
+include 'Task_3_1_1'
+
